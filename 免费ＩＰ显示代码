@@ -1,0 +1,17 @@
+<IFRAME border=0 frameBorder=0 height=30 scrolling=no 
+      src="http://www.1t2t.com/1t/ip/index.php" 
+  width=780></IFRAME>
+  <IFRAME border=0 frameBorder=0 height=30 scrolling=no 
+      src="http://www.1t2t.com/1t/ip/index_1.php" 
+  width=780></IFRAME>
+  <IFRAME border=0 frameBorder=0 height=30 scrolling=no 
+      src="http://www.1t2t.com/1t/ip/index_2.php" 
+  width=780></IFRAME>
+  <IFRAME border=0 frameBorder=0 height=30 scrolling=no 
+      src="http://www.1t2t.com/1t/ip/index_4.php" 
+  width=780></IFRAME>
+  <FORM METHOD=POST ACTION="http://www.1t2t.com/1t/ip/index_3.php" name="ipform" target="_blank">
+<tr><td align="center"><a target="_parent" href="http://www.1t2t.com/">
+	<font color="#000000">IP地址:</font></a><input type="text" name="ip" size="16"> 
+<input type="submit" value="查询"><INPUT TYPE="hidden" name="action" value="2">
+</td></tr></FORM>
